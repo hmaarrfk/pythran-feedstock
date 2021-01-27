@@ -20,15 +20,8 @@ python:
 - 3.6.* *_73_pypy
 target_platform:
 - linux-64
-<<<<<<< HEAD:.ci_support/linux_64_numpy1.18python3.6.____73_pypy.yaml
 zip_keys:
 - - cdt_name
   - docker_image
 - - python
   - numpy
-||||||| 1b2f03d:.ci_support/linux_64_python3.6.____73_pypy.yaml
-=======
-zip_keys:
-- - cdt_name
-  - docker_image
->>>>>>> origin/master:.ci_support/linux_64_python3.6.____73_pypy.yaml
